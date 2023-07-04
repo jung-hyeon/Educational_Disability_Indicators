@@ -17,4 +17,4 @@ __📍 Link:__ [Final PPT](https://github.com/jung-hyeon/Educational_Disability_
   
 ---
 
-* [서울 시민 데이를 활용한 도시문제 해결 경진대] 최우수상 수상
+* 🏆[서울 시민 데이를 활용한 도시문제 해결 경진대] 최우수상 수상
